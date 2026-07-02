@@ -4,7 +4,7 @@ A small bridge that allows Home Assistant to control Dahua cameras using Dahua's
 
 This project started because newer Dahua consumer cameras (such as the **DH-H4C-P**) don't expose ONVIF PTZ or the older CGI API, making them difficult to integrate with Home Assistant. Since SmartPSS can control these cameras locally through the NetSDK, this project aims to expose the same functionality in a simple and reusable way.
 
-> **Project Status:**  Work in progress
+> **Project Status:** 🚧 Work in progress
 
 ## Planned Features
 
@@ -19,7 +19,7 @@ This project started because newer Dahua consumer cameras (such as the **DH-H4C-
 
 | Camera | Status |
 | ------- | ------ |
-| DH-H4C-P |  In Progress |
+| DH-H4C-P | 🚧 In Progress |
 
 If you have another Dahua camera that uses the NetSDK, feel free to test it and let us know.
 
